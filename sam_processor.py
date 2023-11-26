@@ -64,8 +64,8 @@ def main(model_type, image_path):
     # Visualize and save the result
     output_visualization_dir = os.path.join('data/outputs/visualizations', model_type[0])
     save_and_show_output(segmentation_mask, image_path, output_visualization_dir)
-  
 
+#%%
 
 if __name__ == "__main__":
     models = {

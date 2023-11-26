@@ -1,0 +1,2 @@
+2023-11-26 17:49:46,911 - root - INFO - generate_segmentation_mask execution time: 1.5405888557434082 seconds
+2023-11-26 17:49:59,098 - root - INFO - save_and_show_output execution time: 12.186012744903564 seconds
